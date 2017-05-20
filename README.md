@@ -1,4 +1,3 @@
-====
 Braço/Garra [PyOpenGL](http://pyopengl.sourceforge.net/)
 ====
 
